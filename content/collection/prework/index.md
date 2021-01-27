@@ -58,7 +58,7 @@ To use blogdown, please install Hugo:
 And ensure your current version is at least as high as:
 ```r
 > hugo_version()
-[1] ‘0.79.0’
+[1] ‘0.70.0’
 ```
 
 ## Check pandoc
