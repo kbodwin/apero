@@ -25,7 +25,7 @@ sidebar:
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
 
-# set up common front matter for all pages inside blog/
+# set up common front matter for all pages inside talk/
 cascade:
   author: "The R Markdown Team @RStudio"
   show_author_byline: true
